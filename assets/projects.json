@@ -1,0 +1,115 @@
+{
+  "projects": [
+    {
+      "name": "M-CKYC Devika Urban Co-operative Bank",
+      "description": "Central KYC Registry is a centralized repository of KYC records of customers in the financial sector with uniform KYC norms and inter-usability of the KYC records across the sector with an objective to reduce the burden of producing KYC documents and getting those verified every time when the customer creates a new relationship with a financial entity.",
+      "thumbnail": "https://lh3.googleusercontent.com/xmbhCuuS0Uwj1fDtxvjYK62D2DXKp_R5Lt120n2NAQyKFufE3IVVO2pubr_WxxsuEfs=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.origin.ckyc.ducb",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/BoBwpQa2LzH3DHy24iMHYQw0mfUSOhZmwU7YhhbYKnurq7iGu5VHv8zgxoCPGH-CJ5Q=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/KOIIXoDRzJ4_UG9JucrKbXRylv3x90yG66PCa7T6SdT2Tvo_FiSqpU4w9lF7v8ZYZj5H=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/04iuN2O2REEBOscIN5di2xKKPiKWnK0fGf_M4VmU3KkimnvQLJ0qz8oWF_MsMY8-3d5O=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/kL4MbDO3UjoyAwiwvZqiTD8EVpCo2-8yXSjMmiR3Wuy7q5ZpozcQmRUORJx6cLOy3cM=w1440-h789-rw"
+      ]
+    },
+    {
+      "name": "MCTS | Mobile CTS",
+      "description": "This application covers the facility to replace cheque scanners with mobile application based camera. This application would help banks to bring smaller volume branches under the umbrella of automation of cheque movement from one bank to another.",
+      "thumbnail": "https://lh3.googleusercontent.com/NZrOa0y9zlyH1hLx5zBUpqTF44LQTVjdR5dtNz6KCR4vp0e_IxLP6knblQLM3w0CH1i-=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.origin.mcts",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/mvo5GWzxFj31iesvLEfQL3e5-OkwqnodRzT5tUmQMnN9SKjtVs7HdEiJYaTzJs-AR-g8=w720-h310-rw",
+        "https://lh3.googleusercontent.com/MQha8hcxlar2HwBQigdFvEQ9eQNhMY1mELy_pFKMJcDxqFOnMK2atph_b6xZYkP2vAM=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/41N6XQSXeWO0h9vqe2MeDUbhRzYP8iTqbv8VlXDxxW9lEyo9kjJYj8LMqsMfdnT5vQ=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/0a6M25PCQTNHt5wn--747Cx4LmNG9jfZ9MEN0FfwB13qL3z2r6fau98wkSX7tVjLmt8=w1440-h789-rw"
+      ]
+    },
+    {
+      "name": "DigiBoard",
+      "description": "It provides an effective and enhanced communication platform between teachers, parents and the management. It gives the parents a facility of electronically escorting their ward whenever they are out of their sight for attending classes.",
+      "thumbnail": "https://lh3.googleusercontent.com/F8EvoAk-KuFJv52I9D5Bpkjxuvnnd6_sS993muoBm7CfFmbNMVjkYfs-xRpTq67d_Cfl=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.origin.digiboard",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/UFnY1bK5ABjoBqkqLMI9RIYAbEP7mwiIVPVhuM0TL5Usg7GwXMMYhekaQxzQg0cB_uk=w720-h310-rw",
+        "https://lh3.googleusercontent.com/PEN73zot30XvTjxDKFSFywwwNfFiNdu24TriwdKQs2dugsxjEbCNvAGz2NKXAFURIg=w720-h310-rw",
+        "https://lh3.googleusercontent.com/2ZTrIYvVosdVsf_OVHqqJMbcyILv1T1QFxX1P13SQzmgFc52Z9Bq1DkxTFL0F4oOANU=w720-h310-rw",
+        "https://lh3.googleusercontent.com/OMmnr7IUQVkvLugf-_x-oQWAv5X1qqMWhnwpJlu31sfZ-zjooeLF68hOnD2nTuUnDII=w720-h310-rw"
+      ]
+    },
+    {
+      "name": "PACS | Primary Agricultural Credit Societies",
+      "description": "Primary Agricultural Credit Societies (PACS) occupy a predominant position in the co-operative credit structure and form its base. A PACS is organized at the grass roots level of a village or a group of small villages. It is this basic unit which deals directly with the rural (agricultural) borrowers, gives those loans and collects repayments of loans given.",
+      "thumbnail": "https://lh3.googleusercontent.com/FKAzOx4GcxhJndnkXYwenRuHTJDXeuaFmKVqJYWRhsdWPg2iVaWPlsHCW1aFIrUHsxI8=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.origin.pacs.member",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/Ku6IYjNPat6-5X1V3GSSWKVtOUgcDbbT104LKHkXuHSvIwy0qgrcHhOGLSeHeVxI0wCq=w720-h310-rw",
+        "https://lh3.googleusercontent.com/txV7EkAe8wn6fRutI0VA0uuYWHD1_kITqlhh3B5UQTjV_0H6deiin_4sSoQjcL1vVnY=w720-h310-rw",
+        "https://lh3.googleusercontent.com/Ns7Wf-cBlEojdIofVb10T0MmUfAIioPo8x74_O4EYIbxTqaq4nB92e9u6oRmebW_og=w720-h310-rw",
+        "https://lh3.googleusercontent.com/Oo_hMfQSFRwkYHndk53GCsCGE697sSTjg9s42ZNkZ4ijjLruLRKefwBSAN39CsjJZg=w720-h310-rw"
+      ]
+    },
+    {
+      "name": "Sahayak",
+      "description": "Central KYC Registry is a centralized repository of KYC records of customers in the financial sector with uniform KYC norms and inter-usability of the KYC records across the sector with an objective to reduce the burden of producing KYC documents and getting those verified every time when the customer creates a new relationship with a financial entity.",
+      "thumbnail": "https://lh3.googleusercontent.com/dNYNlECeoH8OqWPV6O3dcxmdMH7iUvzl8A6Do-9FG2em20KC2iq0ty3tTPA6MrBttQ=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.origin.ckyc.ducb",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/F19g-j9BK2NB7Bbl4wukqhxQGyRKOP2xsQZ-6wSlgkrccEeZi7RdrGkWZN4eMzNrir_9=w720-h310-rw",
+        "https://lh3.googleusercontent.com/JoMt9vCoWLc3vcqgrU8EtYZALQFm-3uaKf1H2rgWyiwC5sXflJWYkh2TPKv1Dt5ze1Y=w720-h310-rw",
+        "https://lh3.googleusercontent.com/v7tZod6kycChap6DoAIABNlsY7PolSF4sdqZgyX9ytx_4hroWupck-VheEpzLZ1w-A=w720-h310-rw",
+        "https://lh3.googleusercontent.com/rsZmulryy3VqTvyZs9Bit45d3W1wYjPFxTRCNhXF2PEK3VVqKHRZm29pGyeJ7hKE29-Y=w720-h310-rw"
+      ]
+    },
+    {
+      "name": "ParentSquare",
+      "description": "ParentSquare is a safe and secure platform for all school-to-home communication. The two-way group messaging, private conversations, district-wide alerts and notices, and simple user interface keeps everyone connected, creating a vibrant school community.",
+      "thumbnail": "https://lh3.googleusercontent.com/7vgPf7jxJBQnOc0f35JyXnnjOqGkERE6mnXIVYHyXG0aA1ye7FweYbiAZ1Txuhpr70k=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.parentsquare.psapp",
+      "github": "",
+      "platform": "Android",
+      "images":[
+       "https://lh3.googleusercontent.com/iVyAEMFxjxHbGWimdstDdC91cguP6uJuOBi7ErUQ79bkA8QGJSMRCNjOTwI382tbEi0=w720-h310-rw",
+        "https://lh3.googleusercontent.com/EUIi7sYOGBbB5wphEp0y2efJkG_DjWNB9Btws_OaM3nfAtniXTpSqPLD4OXu4R1_eGA=w720-h310-rw",
+        "https://lh3.googleusercontent.com/TFXE4mZN2iAXGV5d_wU1pn1lhzC3bum2X3t0nvd4bs23-1Y1o22EIWyfZUbXZQFArA=w720-h310-rw",
+        "https://lh3.googleusercontent.com/ofFEcdT7YjfYgDLIOw8ngVdswnfP5mSqQo1NDP38TETHipyyES7ZVVdvf8VSP7olZXC7=w720-h310-rw"
+      ]
+    },
+    {
+      "name": "ZippSlip",
+      "description": "The ZippSlip Parent App allows parents of students in districts that use ZippSlip to electronically view and respond to communications from administrators and teachers. Parents can securely register their students, provide consent to field trips, respond to emergency contact forms, update medical forms, etc.",
+      "thumbnail": "https://lh3.googleusercontent.com/Fy60aU9lb01NH-Wsxy8LGe2G2mlugf2MrZy1qjgQc823Dlk-oN18xZGTURrUtuVzwg=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.zippslip",
+      "github": "",
+      "platform": "Android",
+      "images":[
+      "https://lh3.googleusercontent.com/iZWBSCB8lgKISg6Hlp7sV6xXafOK84TrFNSeIKt-Hgk0yyzvZ2Pqlb0oTm_pbpbrlsE=w720-h310-rw",
+        "https://lh3.googleusercontent.com/m1YLTK2XyH5Tnj53OKoI-Wcq9m4xOfe-FEnlHdSadvquu8lDz9j5XZfOlvhjP56l6do=w720-h310-rw",
+        "https://lh3.googleusercontent.com/JaqJIe7gfi1S8MY0Ery4uXXclPY9vgosxmt_122jtONXCZI5folO3jGVp-771_OzYvE=w720-h310-rw",
+        "https://lh3.googleusercontent.com/lbRRr4Q0_RJmcAlAngzOl2iRNks9m2-ZOrfyV2TJXwLnA76mQ9juYt1EcMbUEOlwPi0=w720-h310-rw"
+      ]
+    },
+    {
+      "name": "Scoutlier",
+      "description": "Scoutlier - Online Learning and Interactive Digital App where your students learn with their own data.\n\nHelp your class collect, share, and collaborate with their data, pictures, and videos for learning activities and labs to make deep connections from virtually anywhere.",
+      "thumbnail": "https://lh3.googleusercontent.com/kw2S4B5HwrGjGNNsCLouEbEFEFrxmhl8Poy4lBPXcQzQIm1n5kOHG4Uoelv59FxeyhY=s180-rw",
+      "playstore": "https://play.google.com/store/apps/details?id=com.aecern.aecern",
+      "github": "",
+      "platform": "Android",
+      "images":[
+        "https://lh3.googleusercontent.com/G50gRHvBC33i8L66_MRGfIBn-fjl32HhhRQ2wcz_Cxv5X8pWZjUlslz89aNMaz7eVlI=w720-h310-rw",
+        "https://lh3.googleusercontent.com/u59vt4Ct56PkZnVIUxrPgepyQOUw-RwVUWhPHfhYBuQ_mbeU17Gi7p9aHoF-ppHx1A=w1440-h789-rw",
+        "https://lh3.googleusercontent.com/NiT2lr3cBDhfESbC22mJULjgN37JGRpg5UGXGTgSkjGXF7QKTMePpubWjEiwQSfMOuE=w1440-h789-rw"
+      ]
+    }
+  ]
+}
